@@ -1,0 +1,10 @@
+2161062 bytes tiene el fichero ficheros/quijote.txt
+37861 líneas que tiene el fichero ficheros/quijote.txt
+El fichero ficheros/quijote.txt contiene 2184 veces la palabra Quijote
+El fichero ficheros/quijote.txt contiene 285 veces la palabra Dulcinea
+El fichero ficheros/quijote.txt contiene 2150 veces la palabra Sancho
+2161062 bytes tiene el fichero ficheros/quijote.txt
+37861 líneas que tiene el fichero ficheros/quijote.txt
+El fichero ficheros/quijote.txt contiene 2184 veces la palabra Quijote
+El fichero ficheros/quijote.txt contiene 285 veces la palabra Dulcinea
+El fichero ficheros/quijote.txt contiene 2150 veces la palabra Sancho
